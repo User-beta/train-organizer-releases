@@ -21,7 +21,23 @@ On that page, under **Assets**, click the file that ends in `.exe`.
 - Nothing else to install. Java is included.
 - About 28 MB.
 
-## Install
+### iPhone (iPhone 12 or newer, iOS 16 or newer)
+
+The iPhone version is installed with [AltStore](https://altstore.io), which is available in the EU.
+
+**Easiest, with automatic updates:** in AltStore open **Sources**, tap **+** and add
+
+```
+https://raw.githubusercontent.com/User-beta/train-organizer-releases/main/altstore.json
+```
+
+Then install Train Organizer from that source. AltStore will offer new versions by itself.
+
+**Or by hand:** download the file that ends in `.ipa` from the
+[latest version](https://github.com/User-beta/train-organizer-releases/releases/latest) and open it in AltStore
+(My Apps, then **+**).
+
+## Install on Windows
 
 1. Run the downloaded file, `TrainOrganizer-….exe`.
 2. Windows may say **"Windows protected your PC"**. That appears because the installer is not yet
@@ -72,7 +88,7 @@ and real platforms: RJX, RJ, ICE, EC, IC, Nightjet, REX, S-Bahn and more.
 
 - The track plans are simplified drawings, not exact maps of the stations.
 - The two Budapest stations use an approximate timetable for now.
-- An iPhone version is in development.
+- The iPhone version is new and has fewer comforts than the Windows version so far.
 
 ## Problems or ideas?
 
