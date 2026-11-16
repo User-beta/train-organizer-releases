@@ -1,0 +1,34 @@
+{
+  "name": "Train Organizer",
+  "identifier": "com.nworks.trainorganizer.source",
+  "subtitle": "Run the platforms of a real railway station.",
+  "iconURL": "https://raw.githubusercontent.com/User-beta/train-organizer-releases/main/images/icon.png",
+  "website": "https://github.com/User-beta/train-organizer-releases",
+  "apps": [
+    {
+      "name": "Train Organizer",
+      "bundleIdentifier": "com.nworks.trainorganizer",
+      "developerName": "NWorks",
+      "subtitle": "Run the platforms of a real railway station.",
+      "localizedDescription": "Decide which platform every train gets and who goes first, with the real timetables of Wien, Salzburg and Budapest. Beta version, actively developed by NWorks. © 2026 NWorks. All rights reserved.",
+      "iconURL": "https://raw.githubusercontent.com/User-beta/train-organizer-releases/main/images/icon.png",
+      "tintColor": "005FB8",
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "1.2.1",
+          "date": "2026-11-16T18:28:45Z",
+          "localizedDescription": "• Budapest-Déli and Budapest-Keleti now run the real weekday timetable of MÁV, with real train numbers, lines and destinations: S10, S12, S40, S60, S80, Z30, Z60, G-trains, InterRégió, IC, EC and Railjet.\n• All four stations can be played from the start. Stars no longer unlock anything.\n• New \"Credits\" tab in the menu: where every timetable comes from, and under which licence.\n• First version for iPhone, installed through AltStore.",
+          "downloadURL": "https://github.com/User-beta/train-organizer-releases/releases/download/v1.2.1/TrainOrganizer-1.2.1.ipa",
+          "size": 397971,
+          "minOSVersion": "16.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    }
+  ],
+  "news": []
+}
