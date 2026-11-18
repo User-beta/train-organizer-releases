@@ -16,11 +16,11 @@
       "screenshotURLs": [],
       "versions": [
         {
-          "version": "1.2.1",
-          "date": "2026-11-16T18:28:45Z",
-          "localizedDescription": "• Budapest-Déli and Budapest-Keleti now run the real weekday timetable of MÁV, with real train numbers, lines and destinations: S10, S12, S40, S60, S80, Z30, Z60, G-trains, InterRégió, IC, EC and Railjet.\n• All four stations can be played from the start. Stars no longer unlock anything.\n• New \"Credits\" tab in the menu: where every timetable comes from, and under which licence.\n• First version for iPhone, installed through AltStore.",
-          "downloadURL": "https://github.com/User-beta/train-organizer-releases/releases/download/v1.2.1/TrainOrganizer-1.2.1.ipa",
-          "size": 397971,
+          "version": "1.3.0",
+          "date": "2026-11-18T17:49:48Z",
+          "localizedDescription": "• Four new stations with real timetables of Tuesday 17 November 2026: Budapest-Kelenföld (MÁV), Zürich HB with the underground Löwenstrasse station (opentransportdata.swiss), München Hbf with its 32 terminal tracks and Berlin Hbf during the Stadtbahn closure (gtfs.de, CC BY 4.0).\n• Sound: a station chime when a train needs a platform, a click when you set one, warnings for failures and turned-away trains, and a tune at the end of the shift. Choose the volume in the menu; the switch in the game turns it off.\n• 17 achievements, shown at the end of a shift and in the menu.\n• The station tiles in the menu are now in two rows, so that full names fit.\n• München Hbf: the source names the hall of every train, and the game prefers those tracks.",
+          "downloadURL": "https://github.com/User-beta/train-organizer-releases/releases/download/v1.3.0/TrainOrganizer-1.3.0.ipa",
+          "size": 511068,
           "minOSVersion": "16.0"
         }
       ],
