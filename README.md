@@ -65,30 +65,37 @@ installer from this page once.
 5. When two trains block each other, select the one that should go first and press **Priority**.
 
 Every train is worth 100 points. Letting a train wait costs points, and so does changing its platform
-at the last minute, because the passengers have to run. Earn stars to unlock the next station. A
-short tutorial explains everything during your first shift.
+at the last minute, because the passengers have to run. Every station is open from the start. Earn
+up to three stars per station and collect 17 achievements. A short tutorial explains everything
+during your first shift. Sounds tell you when a train needs a platform; set the volume in the menu.
 
 ![The menu](images/menu.png)
 
 ## The stations
 
+Every station runs the real timetable of Tuesday 17 November 2026.
+
 | Station | What makes it special |
 | --- | --- |
 | **Budapest-Déli** | The place to start. Twelve tracks, but every train has to squeeze through one tunnel. |
-| **Salzburg Hbf** | The real weekday timetable. Railjets are uncoupled here into two trains, and coupled again on the way back. |
+| **Salzburg Hbf** | Railjets are uncoupled here into two trains, and coupled again on the way back. |
 | **Budapest-Keleti** | A big terminus where every train has to turn around, and all of them share one exit. |
-| **Wien Hbf** | The hard one: the real weekday timetable with about 45 trains an hour. |
+| **Wien Hbf** | About 45 trains an hour on ten surface tracks. |
+| **Budapest-Kelenföld** | New. About 35 trains an hour crossing between four lines on ten platform tracks. |
+| **Berlin Hbf** | New. All main-line trains in the eight tunnel tracks while the Stadtbahn above is closed. |
+| **München Hbf** | New. 32 buffer-stop tracks in three halls and one long throat. |
+| **Zürich HB** | New, and the hardest: up to 60 trains an hour on 16 terminal tracks and the underground Löwenstrasse. |
 
-At Wien and Salzburg you work the real timetable of the Austrian railways, with real train numbers
-and real platforms: RJX, RJ, ICE, EC, IC, Nightjet, REX, S-Bahn and more.
+You work with real trains: RJX, RJ, ICE, TGV, EC, IC, IR, Nightjet, InterRégió, RE, S-Bahn and more.
+Wien, Salzburg and Zürich have real train numbers and platforms; the Hungarian timetable has real
+train numbers, and the German one shows the line (for example ICE 28) instead.
 
-![Salzburg Hauptbahnhof in the game](images/salzburg.png)
+![Zürich HB in the game](images/zurich.png)
 
 ## Good to know
 
 - The track plans are simplified drawings, not exact maps of the stations.
-- The two Budapest stations use an approximate timetable for now.
-- The iPhone version is new and has fewer comforts than the Windows version so far.
+- Train lengths, freight trains and the Salzburger Lokalbahn are estimated or invented.
 
 ## Problems or ideas?
 
@@ -100,9 +107,23 @@ write what happened. Please mention the version number shown in the top right co
 Train Organizer is © 2026 NWorks. All rights reserved. The game may not be copied, modified or
 redistributed without permission.
 
-Timetable data for Wien Hauptbahnhof and Salzburg Hauptbahnhof: ÖBB-Personenverkehr AG,
-"Soll-Fahrplan GTFS 2026", [data.oebb.at](https://data.oebb.at), licensed under
-[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The data was converted and shortened for
-the game. Track lengths at the Budapest stations: © OpenStreetMap contributors, ODbL.
+Timetables:
 
-This game is not affiliated with or endorsed by any railway company.
+- Wien Hauptbahnhof and Salzburg Hauptbahnhof: ÖBB-Personenverkehr AG, "Soll-Fahrplan GTFS 2026",
+  [data.oebb.at](https://data.oebb.at), licensed under
+  [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Converted and shortened for the game.
+- Budapest-Déli, Budapest-Keleti and Budapest-Kelenföld: MÁV Személyszállítási Zrt., domestic
+  public service timetable valid from 31 August to 12 December 2026,
+  [www.mavcsoport.hu](https://www.mavcsoport.hu). © MÁV. Used as published public information,
+  with credit.
+- Zürich HB: Source: [opentransportdata.swiss](https://opentransportdata.swiss), "Timetable 2026
+  (GTFS2020)", used under its terms of use. Processed and shortened for the game by NWorks.
+- München Hbf and Berlin Hbf: [gtfs.de](https://gtfs.de), built from the NeTEx data of DELFI e.V.,
+  licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Converted and shortened
+  for the game.
+
+Track lengths at the Budapest stations: © OpenStreetMap contributors, ODbL. The sounds are generated
+by the game itself.
+
+Railway names and brands belong to their owners. This game is not affiliated with or endorsed by any
+railway company.
